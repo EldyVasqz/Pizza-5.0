@@ -1,9 +1,8 @@
-1. Se preparan los ingredientes
-2. Se mezcla el agua con la harina para preparar la masa
-3. Se agregan los ingredientes necesarios y se amasa la masa con fuerza.
-4. Se le da la forma a la masa y se deja reposar
-5. Se espolvorea harina sobre la mesa y se prepara la pizza estirando la masa
-6. Se agregan los topping necesario y al gusto
-7. Precalentar el horno a temperatura maxima por 20 minutos
-8. Colocar la pizza en el horno y hornear por 10 minutos
-9. Servir y disfrutar
+1. Se preparan la masa para la pizza.
+2. Alistar los ingredientes que llevará la pizza.
+3. Moldear la masa hasta que quede plana.
+4. Sobre la masa colocar la salsa roja y el quesillo.
+5. Colocar los ingredientes sobre la salsa roja y el quesillo.
+6. Introducir la pizza al horno por 8 minutos a 360 ºC.
+7. Sacar la pizza y cortar.
+8. Servir.
